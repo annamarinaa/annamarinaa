@@ -1,4 +1,4 @@
-<img src="https://github.com/annamarinaa/annamarinaa/blob/main/Header.png",alt="banner that says Anna Marina - data science graduate, designer ">
+<img src="https://github.com/annamarinaa/annamarinaa/blob/main/Header.png" alt="banner that says Anna Marina - data science graduate, designer ">
 ### Hi there 👋
 
 <!--
